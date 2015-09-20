@@ -30,8 +30,8 @@ var styles = StyleSheet.create({
   },
   button: {
     height: 36,
-    backgroundColor: '#f39c12',
-    borderRadius: 8,
+    backgroundColor: '#007AFF',
+    borderRadius: 4,
     justifyContent: 'center',
     marginTop: 15
   },
